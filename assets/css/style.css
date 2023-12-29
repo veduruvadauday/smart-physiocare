@@ -6620,3 +6620,23 @@ img {
     margin-top: 10px;
     margin-bottom: 40px;
 }
+
+.inner-header{
+	 
+    padding-top: 10px;
+    margin-bottom: -15px;
+ }
+ .inner-header{ min-width:100%; padding:2px 0; color:#fff;		background: linear-gradient(to right, #222222, #01a3d4, #00acb1, #222222);
+ }
+ .inner-header .container{ position:relative; z-index:2;}
+ .inner-header .container h1{ font-weight:800; font-size:30px; margin:10px 0;}
+
+ .marque_anc{
+	text-decoration: none;
+}
+
+@media(max-width:1200px) {
+    mobile {
+        margin-top:-30px;
+    }
+}

@@ -123,11 +123,11 @@ button {
 	outline: none !important;
 	cursor: pointer;
 }
-.text {
+/* .text {
 	color: #000;
 	margin: 0px 0px 15px;
     font-size: 16px;
-}
+} */
 ::-webkit-input-placeholder {
 	color: inherit;
 }

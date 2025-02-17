@@ -6698,3 +6698,10 @@ background-color:#a3a3a3 ;
         margin-top:-30px;
     }
 }
+
+
+.img_justify{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
